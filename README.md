@@ -6,7 +6,7 @@ CrayonHub is an advanced cheat tool designed for Anime Vanguards. It provides a 
 - 
 
 ## How to Download
-1. Download the latest version of CrayonHub from the [releases](#) section.
+1. Download the latest version of CrayonHub from the code section.
 2. Extract the ZIP file to your preferred folder.
 3. Run the `CrayonHub.exe` file to start the tool.
 4. Follow the in-app instructions to activate cheats.
